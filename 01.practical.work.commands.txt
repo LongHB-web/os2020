@@ -1,0 +1,72 @@
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ echo HelloWorld
+HelloWorld
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ passwd
+Old password:
+New password:
+Re-enter new password:
+You may not change the password for longh.
+Try again.
+New password:
+Re-enter new password:
+You may not change the password for longh.
+Try again.
+New password:
+Re-enter new password:
+You may not change the password for longh.
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ date
+Thu, May  7, 2020  3:17:26 PM
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ hostname
+DESKTOP-HDK18G3
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ arch
+x86_64
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ uname -a
+MINGW64_NT-10.0-18363 DESKTOP-HDK18G3 3.0.7-338.x86_64 2019-11-21 23:07 UTC x86_64 Msys
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ uptime
+bash: uptime: command not found
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ whoami
+longh
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ who
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ id
+uid=197609(longh) gid=197609 groups=197609
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ last
+bash: last: command not found
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$ finger
+
+Displays information about a user on a specified system running the
+Finger service. Output varies based on the remote system.
+
+FINGER [-l] [user]@host [...]
+
+  -l        Displays information in long list format.
+  user      Specifies the user you want information about. Omit the user
+            parameter to display information about all users on the
+            specifed host.
+  @host     Specifies the server on the remote system whose users you
+            want information about.
+
+
+longh@DESKTOP-HDK18G3 MINGW64 ~
+$
